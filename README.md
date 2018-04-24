@@ -17,4 +17,5 @@ Un país con grandes recursos naturales será pobre si no tiene las tecnologías
 
 El comercio moderno, medio principal de intercambio de mercancías (productos tecnológicos), no podría llevarse a cabo sin las tecnologías del transporte fluvial, marítimo, terrestre y aéreo. Estas tecnologías incluyen tanto los medios de transporte (barcos, automotores, aviones, trenes, etc.), como también las vías de transporte y todas las instalaciones y servicios necesarios para su eficaz realización y eficiente uso: puertos, grúas de carga y descarga, carreteras, puentes, aeródromos, radares, combustibles, etc. El valor de los fletes, consecuencia directa de la eficiencia de las tecnologías de transporte usadas, ha sido desde tiempos remotos y sigue siendo hoy uno de los principales condicionantes del comercio.
 
+![Resultado de imagen para Tecnología y comercio](http://www.formacion.edu.ec/imagenes/secciones/carreras/comercio.jpg)
 
