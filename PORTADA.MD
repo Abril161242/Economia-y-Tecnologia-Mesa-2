@@ -10,4 +10,4 @@ LAURA FERNANDA GOMEZ VENEGAS
 
 ABRIL RAMIREZ FLORES
 
-![**INFORMACION**](https://github.com/Abril161242/Economia-y-Tecnologia-Mesa-2/blob/master/README.md)
+![**INFORMACION**](https://abril161242.github.io/Economia-y-Tecnologia-Mesa-2/)
