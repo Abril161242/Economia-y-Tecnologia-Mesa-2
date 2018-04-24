@@ -9,3 +9,6 @@ La mayoría de las teorías económicas da por sentada la disponibilidad de las 
 
 La producción de bienes requiere la recolección, fabricación o generación de todos sus insumos. La obtención de la materia prima inorgánica requiere las tecnologías mineras. La materia prima orgánica (alimentos, fibras textiles...) requiere de tecnologías agrícolas y ganaderas. Para obtener los productos finales, la materia prima debe ser procesada en instalaciones industriales de muy variado tamaño y tipo, donde se ponen en juego toda clase de tecnologías, incluida la imprescindible generación de energía.
 
+**RECURSOS NATURALES**
+
+Un país con grandes recursos naturales será pobre si no tiene las tecnologías necesarias para su ventajosa explotación, lo que requiere una enorme gama de tecnologías de infraestructura y servicios esenciales. Asimismo, un país con grandes recursos naturales bien explotados tendrá una población pobre si la distribución de ingresos) no permite a ésta un acceso adecuado a las tecnologías imprescindibles para la satisfacción de sus necesidades básicas. En la actual economía capitalista, el único bien de cambio que tiene la mayoría de las personas para la adquisición de los productos y servicios necesarios para su supervivencia es su trabajo. La disponibilidad de trabajo, condicionada por las tecnologías, es hoy una necesidad humana esencial.
