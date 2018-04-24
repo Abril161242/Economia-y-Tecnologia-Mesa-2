@@ -20,6 +20,7 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 ![Resultado de imagen para Tecnología y comercio](http://www.formacion.edu.ec/imagenes/secciones/carreras/comercio.jpg)
 
 **TECNOLOGIA**
+
 |                 VENTAJAS                |            DESVENTAJAS           |
 |:---------------------------------------:|:--------------------------------:|
 | Facil acceso a la informacion.          | Propensa al robo de informacion. |
@@ -27,7 +28,6 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 | Mejora de la comunicacion.              | Obsolencia programada.           |
 | Entretenimiento.                        | Acorta de memoria.               |
 | Cambios en la industria de la salud.    | Acorta el ejercicio mental.      |
-
 
 **ECONOMIA**
 
