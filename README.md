@@ -28,6 +28,7 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 | Entretenimiento.                        | Acorta de memoria.               |
 | Cambios en la industria de la salud.    | Acorta el ejercicio mental.      |
 
+
 **ECONOMIA**
 
 |                                                                                                                Ventajas                                                                                                                |                                                                                                           Desventajas                                                                                                           |
