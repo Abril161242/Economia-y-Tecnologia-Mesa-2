@@ -27,3 +27,4 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 | Mejora de la comunicacion.              | Obsolencia programada.           |
 | Entretenimiento.                        | Acorta de memoria.               |
 | Cambios en la industria de la salud.    | Acorta el ejercicio mental.      |
+
