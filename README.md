@@ -20,7 +20,6 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 ![Resultado de imagen para Tecnología y comercio](http://www.formacion.edu.ec/imagenes/secciones/carreras/comercio.jpg)
 
 **TECNOLOGIA**
-
 |                 VENTAJAS                |            DESVENTAJAS           |
 |:---------------------------------------:|:--------------------------------:|
 | Facil acceso a la informacion.          | Propensa al robo de informacion. |
@@ -29,3 +28,12 @@ El comercio moderno, medio principal de intercambio de mercancías (productos te
 | Entretenimiento.                        | Acorta de memoria.               |
 | Cambios en la industria de la salud.    | Acorta el ejercicio mental.      |
 
+**ECONOMIA**
+
+|                                                                                                                Ventajas                                                                                                                |                                                                                                           Desventajas                                                                                                           |
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| el ahorro que supone, ya que, habitualmente, se obtienen precios más ventajosos que para  el caso de la economía o consumo tradicionales.   Además de compartir un bien, se comparte el gasto que comporta la utilización de ese bien. | La economía colaborativa en su conjunto se basa en la existencia de multitud de plataformas,  cada vez en mayor número, dedicadas a muy diversos ámbitos.                                                                       |
+| Bienes o servicios que permanecen sin utilizar de manera regular, se comparten, alquilan, prestan o intercambian,  desde personas que los poseen hacia personas que los desean o necesitan utilizar sin tenerlos en propiedad.         | El amplio espectro de plataformas de economía colaborativa que existen (y que se crearán en un futuro),  hace especialmente difícil su regulación normativa, por lo que, en principio, podrían escapar al control regulatorio.  |
+| Las personas consumidoras pueden gozar de un mayor número de posibilidades de bienes y servicios,  al reducirse la barrera de acceso económica.                                                                                        | Falta de protección de la persona consumidora.                                                                                                                                                                                  |
+| Se trata de un sistema más ecológico y sostenible que el modelo tradicional de consumo. E sto conlleva beneficios medioambientales                                                                                                     | Falta de datos actualizados para saber las necesidades a tiempo real.                                                                                                                                                           |
+| Sobre todo en esta época de crisis en la que existe una alta tasa de desempleo,  la economía colaborativa se abre como una oportunidad inmejorable para el desempeño de una determinada actividad                                      |  El sector publico controla la economía.                                                                                                                                                                                        |
