@@ -1,5 +1,5 @@
 ![](http://p84.cooltext.com/Rendered/Cool%20Text%20-%20Economa%20y%20Tecnologa%20284030636304166.png)
-TEORIA ECONOMICA
+**TEORIA ECONOMICA**
 
 La economía es la ciencia social que estudia la producción, distribución y consumo de bienes y servicios, denominándose Teoría Económica a la ciencia dedicada a su estudio. El término economía proviene del griego οἰκονομία (oikonomia, "la gestión de un hogar, la administración") de οἶκος (oikos, "casa") + νόμος (nomos, "costumbre" o "ley"), por lo tanto, "reglas de la casa". Los modelos económicos actuales desarrollados fuera de la esfera más amplia de la economía política en el siglo 19, se debieron a un deseo de utilizar un enfoque empírico más afin a las ciencias físicas.
 
